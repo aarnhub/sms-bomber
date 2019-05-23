@@ -12,4 +12,4 @@ MAX LIMIT (by default 15). YOU CAN CHANGE - line 106
 
 Required: Python 3 
 
-![python sms](https://3.bp.blogspot.com/-auxxi1LOScE/XObXDPWD_sI/AAAAAAAABhY/qE_s__eOLtwG3aIz8d8-swT56XtvNOTMwCLcBGAs/s1600/pythonsms.png)
+![python sms](https://2.bp.blogspot.com/-1ULEYc-sz04/XObeWIkx40I/AAAAAAAABhk/KdERUE07reAqfW9DswvHCAlFPFuzfStigCLcBGAs/s1600/smsrepeater.gif)
