@@ -10,7 +10,7 @@ import ssl
 import sys
 # PYTHON SMS REPEATER WITH PROOVL SMS API CONNECTION
 # https://github.com/aarnhub
-# MAX LIMIT YOU CAN CHANGE - line 106 (by default 15)
+# MAX LIMIT YOU CAN CHANGE - line 102 (by default 15)
 def mainmenu():  
     hedr()
     key = 0
