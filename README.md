@@ -8,7 +8,7 @@ Python SMS bomber. Bulk SMS with SMS gateway connection. Simple menu and fast de
 4. Now you can send Bulk SMS.
 
 
-MAX LIMIT (by default 15). YOU CAN CHANGE - line 106
+MAX LIMIT (by default 15). YOU CAN CHANGE - line 102
 
 Required: Python 3 
 
