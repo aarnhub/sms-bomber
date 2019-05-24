@@ -170,7 +170,7 @@ def settapi():
               with open('smsrepdb.pickle', 'rb') as rfp:
                otput = pickle.load(rfp)
  
-              smsrepeater.addstr(17, 4, "Token: " + otput[2] )
+              smsrepeater.addstr(17, 4, "Number: " + otput[0] )
               smsrepeater.addstr(18, 4, "UserID: " + otput[1] )
               smsrepeater.addstr(19, 4, "Token: " + otput[2] )    
           except:
