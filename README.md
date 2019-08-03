@@ -11,6 +11,7 @@ Python SMS bomber. Bulk SMS with SMS gateway connection. Simple menu and fast de
 MAX LIMIT (by default 15). YOU CAN CHANGE - line 102
 
 Required: Python 3 
+
 Install windows-curses package: pip install windows-curses
 
 ![python sms](https://2.bp.blogspot.com/-1ULEYc-sz04/XObeWIkx40I/AAAAAAAABhk/KdERUE07reAqfW9DswvHCAlFPFuzfStigCLcBGAs/s1600/smsrepeater.gif)
