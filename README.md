@@ -19,4 +19,4 @@ Install windows-curses package: pip install windows-curses
 
 <br>
 <a href="https://www.facebook.com/chakabiz" target="_blank">https://www.facebook.com/chakabiz/</a><br>
-<a href="https://www.virtnumber.com" target="_blank">https://www.virtnumber.com</a>
+<a href="https://www.virtnumber.com/freesmsreceive.php" target="_blank">https://www.virtnumber.com</a>
