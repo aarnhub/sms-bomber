@@ -12,7 +12,11 @@ MAX LIMIT (by default 15). YOU CAN CHANGE - line 102
 
 Required: Python 3 
 
-Install windows-curses package: pip install windows-curses
+Install windows-curses package: pip install windows-curses<br>
+
+Additionaly:<br>
+q. Can you add other operator (sms gateway connection)?<br>
+a. Yes. I can add any sms gateway API connection (by request only, contact me on Facebook)<br>
 
 ![python sms](https://2.bp.blogspot.com/-1ULEYc-sz04/XObeWIkx40I/AAAAAAAABhk/KdERUE07reAqfW9DswvHCAlFPFuzfStigCLcBGAs/s1600/smsrepeater.gif)
 
